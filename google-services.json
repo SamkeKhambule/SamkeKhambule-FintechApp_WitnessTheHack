@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019076053592",
+    "project_id": "fintechapp-741fc",
+    "storage_bucket": "fintechapp-741fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019076053592:android:fd13abc941bbe108ff582d",
+        "android_client_info": {
+          "package_name": "com.FintechApp2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAiuqBcv_jrIsnUa_EYBMVYPED_yMxOUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
